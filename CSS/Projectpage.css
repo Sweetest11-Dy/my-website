@@ -1,0 +1,25 @@
+/* project.css */
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+    background: #eef;
+  }
+  
+  header {
+    background: #666;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background: #666;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  

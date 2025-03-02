@@ -1,0 +1,25 @@
+/* about.css */
+body {
+    font-family: Arial;
+    margin: top;
+    padding: 0;
+    background: #ffffff;
+  }
+  
+  header {
+    background: #444;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background: #444;
+    color: #fff;
+    text-align: jus;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,25 @@
+/* experience.css */
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+  }
+  
+  header {
+    background: #555;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background: #555;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
